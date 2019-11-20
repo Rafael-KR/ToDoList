@@ -31,7 +31,7 @@ export default class todos extends Component {
 
         <ImageBackground
           style={styles.backgroundImg}
-          source={require('./imgs/backgroundImg.png')}>
+          source={require('./imgs/imagem.png')}>
           <ScrollView>
             <StatusBar backgroundColor="#146AD2" />
             <Provider store={store}>
